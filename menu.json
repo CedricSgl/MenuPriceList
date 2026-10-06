@@ -39,21 +39,29 @@
         {
           "name": "Placebo (Lupulus)",
           "abv": "0.0%",
-          "price": "3,5€",
+          "price": "4€",
           "description": "Bière à l'amertume subtile et aux notes gustatives complexes.",
+          "icon": "beer"
+        },
+        {
+          "name": "Trotinette",
+          "abv": "0.4%",
+          "price": "4€",
+          "bio":true,
+          "description": "Houblonnée et sans sucre résiduel excessif. Tout le caractère d'une vraie artisanale, sans l'alcool.",
           "icon": "beer"
         },
         {
           "name": "Taras Boulba",
           "abv": "4.5%",
-          "price": "3,5€",
+          "price": "4€",
           "description": "Blonde à l'amertume forte et persistante.",
           "icon": "beer"
         },
         {
           "name": "Fructus (Lupulus)",
           "abv": "4.2%",
-          "price": "3,5€",
+          "price": "4€",
           "description": "Bière rouge fruitée, légèrement sucrée.",
           "icon": "beer"
         },
@@ -61,14 +69,8 @@
           "name": "La Tharée Légère",
           "abv": "4.5%",
           "price": "4€",
+          "bio":true,
           "description": "Blonde légère et rafraîchissante.",
-          "icon": "beer"
-        },
-        {
-          "name": "Tongerlo Blonde",
-          "abv": "6%",
-          "price": "4€",
-          "description": "Bière d'abbaye belge aux saveurs équilibrées et rafinées",
           "icon": "beer"
         },
         {
@@ -82,7 +84,9 @@
           "name": "Jambe de bois",
           "abv": "8%",
           "price": "4€",
-          "description": "Blonde triple à l'amertume prononcée.",
+          "bio":false,
+          "description": "La Jambe-de-Bois est une Triple généreusement houblonnée. Blonde capiteuse, elle est très équilibrée et sa puissance en alcool n’est jamais agressive, ce qui la rend dangereusement facile à boire.",
+          "descriptionOld": "Blonde triple à l'amertume prononcée.",
           "icon": "beer"
         },
         {
@@ -109,7 +113,8 @@
         {
           "name": "La Lustrée (Tharée)",
           "abv": "6.4%",
-          "price": "9€",
+          "price": "10€",
+          "bio":true,
           "description": "Pale Ale aux saveurs puissantes, avec une amertume bien présente et des notes distinctes de pin Douglas et de pamplemousse.",
           "icon": "hop"
         },
@@ -123,7 +128,7 @@
         {
           "name": "Lupulus Blonde",
           "abv": "8.5%",
-          "price": "9€",
+          "price": "10€",
           "description": "Une rafraichissante amertume maîtrisée et ajustée par un note épicée de thym.",
           "icon": "hop"
         }
