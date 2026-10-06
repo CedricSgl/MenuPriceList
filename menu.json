@@ -9,13 +9,16 @@
           "name": "La trappe Puur",
           "abv": "4.5%",
           "price": "2,5€",
-          "description": "Bière blonde légèrement trouble, fruitée et houblonnée.",
+          "bio":true,
+          "descriptionOld": "Bière blonde légèrement trouble, fruitée et houblonnée.",
+          "description": "La Trappe Puur est une bière blonde trappiste certifiée biologique. Sa robe claire est surmontée d’une belle mousse ferme. Rafraîchissante et houblonnée, elle présente un ensemble de saveurs florales ponctué par une légère pointe d’amertume. Une belle alternative éco-responsable aux pils traditionnelles.",
           "icon": "barrel"
         },
         {
           "name": "L'Ornoise",
-          "abv": "5.5%",
+          "abv": "5.8%",
           "price": "3€",
+          "bio":true,
           "description": "L’Ornoise Blonde est une bière qui associe une amertume subtile à une douce couleur d’ocre ! Ses multiples saveurs jailliront dans votre verre sur des notes fraîches et pétillantes.",
           "icon": "barrel"
         },
