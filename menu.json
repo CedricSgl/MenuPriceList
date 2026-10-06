@@ -97,6 +97,13 @@
           "icon": "beer"
         },
         {
+          "name": "La Tharée Triple",
+          "abv": "8%",
+          "price": "4€",
+          "description": "Bière forte aux notes agrumeuses de douglas.",
+          "icon": "hop"
+        },
+        {
           "name": "Natte Lore",
           "abv": "9.1%",
           "price": "4€",
@@ -126,13 +133,6 @@
           "icon": "hop"
         },
         {
-          "name": "La Tharée Triple",
-          "abv": "8%",
-          "price": "9€",
-          "description": "Bière forte aux notes agrumeuses de douglas.",
-          "icon": "hop"
-        },
-        {
           "name": "Lupulus Blonde",
           "abv": "8.5%",
           "price": "10€",
@@ -156,7 +156,7 @@
           "icon": "grape"
         },
         { "name": "Verre", "price": "3€", "icon": "wine" },
-        { "name": "Bouteille", "price": "12€", "icon": "bottle-wine" }
+        { "name": "Bouteille", "price": "15€", "icon": "bottle-wine" }
       ]
     },
     {
@@ -180,12 +180,18 @@
       "items": [
         {
           "name": "Limonade maison",
-          "price": "1,5€",
+          "price": "2€",
           "description": "Citron et menthe",
           "icon": "cup-soda"
         },
-        { "name": "Jus", "price": "1,5€", "icon": "apple" },
-        { "name": "Eau pétillante", "price": "1,5€", "icon": "glass-water" },
+        {
+          "name": "Eau infusée - Concombre Menthe",
+          "price": "2€",
+          "description": "Concombre et menthe",
+          "icon": "cup-soda"
+        },
+        { "name": "Jus", "price": "2€", "icon": "apple" },
+        { "name": "Eau pétillante", "price": "2€", "icon": "glass-water" },
         { "name": "Coca-Cola", "price": "2€", "icon": "cup-soda" },
         {
           "name": "Eau plate",
