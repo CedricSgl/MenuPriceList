@@ -13,6 +13,13 @@
           "icon": "barrel"
         },
         {
+          "name": "L'Ornoise",
+          "abv": "5.5%",
+          "price": "3€",
+          "description": "L’Ornoise Blonde est une bière qui associe une amertume subtile à une douce couleur d’ocre ! Ses multiples saveurs jailliront dans votre verre sur des notes fraîches et pétillantes.",
+          "icon": "barrel"
+        },
+        {
           "name": "La Bierbeek \"Saison\"",
           "abv": "5.5%",
           "price": "2,5€",
