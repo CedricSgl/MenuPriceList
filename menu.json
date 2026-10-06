@@ -32,6 +32,27 @@
       ]
     },
     {
+      "name": "Bières sans alcool",
+      "size": "33cl",
+      "icon": "beer",
+      "items": [
+        {
+          "name": "Placebo (Lupulus)",
+          "abv": "0.0%",
+          "price": "4€",
+          "description": "Bière à l'amertume subtile et aux notes gustatives complexes.",
+          "icon": "beer"
+        },
+        {
+          "name": "Trotinette",
+          "abv": "0.4%",
+          "price": "4€",
+          "bio":true,
+          "description": "Houblonnée et sans sucre résiduel excessif. Tout le caractère d'une vraie artisanale, sans l'alcool.",
+          "icon": "beer"
+        }
+    },
+    {
       "name": "Bières en bouteille",
       "size": "33cl",
       "icon": "beer",
