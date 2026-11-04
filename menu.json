@@ -6,12 +6,11 @@
       "icon": "barrel",
       "items": [
         {
-          "name": "La trappe Puur",
+          "name": "La Grisette",
           "abv": "4.5%",
           "price": "2,5€",
           "bio":true,
-          "descriptionOld": "Bière blonde légèrement trouble, fruitée et houblonnée.",
-          "description": "La Trappe Puur est une bière blonde trappiste certifiée biologique. Sa robe claire est surmontée d’une belle mousse ferme. Rafraîchissante et houblonnée, elle présente un ensemble de saveurs florales ponctué par une légère pointe d’amertume. Une belle alternative éco-responsable aux pils traditionnelles.",
+          "description": "La Grisette Blonde Bio est une bière pâle, légère et très rafraîchissante. Refermentée en bouteille, elle libère des parfums d’une richesse incomparable à ceux rencontrés à cette densité. La mousse est fine et blanche, et sa robe jaune paille. L’amertume est agréablement perceptible. Bio et sans Gluten",
           "icon": "barrel"
         },
         {
@@ -20,13 +19,6 @@
           "price": "3€",
           "bio":true,
           "description": "L’Ornoise Blonde est une bière qui associe une amertume subtile à une douce couleur d’ocre ! Ses multiples saveurs jailliront dans votre verre sur des notes fraîches et pétillantes.",
-          "icon": "barrel"
-        },
-        {
-          "name": "La Bierbeek \"Saison\"",
-          "abv": "5.5%",
-          "price": "2,5€",
-          "description": "Bière à l'amertume douce, légèrement fruitée et épicée.",
           "icon": "barrel"
         }
       ]
@@ -59,17 +51,17 @@
       "icon": "beer",
       "items": [
         {
-          "name": "Taras Boulba",
-          "abv": "4.5%",
-          "price": "4€",
-          "description": "Blonde à l'amertume forte et persistante.",
-          "icon": "beer"
-        },
-        {
           "name": "Fructus (Lupulus)",
           "abv": "4.2%",
           "price": "4€",
           "description": "Bière rouge fruitée, légèrement sucrée.",
+          "icon": "beer"
+        },
+        {
+          "name": "Taras Boulba",
+          "abv": "4.5%",
+          "price": "4€",
+          "description": "Blonde à l'amertume forte et persistante.",
           "icon": "beer"
         },
         {
@@ -88,12 +80,17 @@
           "icon": "beer"
         },
         {
-          "name": "Jambe de bois",
-          "abv": "8%",
+          "name": "Fée Steve",
+          "abv": "6.3%",
           "price": "4€",
-          "bio":false,
-          "description": "La Jambe-de-Bois est une Triple généreusement houblonnée. Blonde capiteuse, elle est très équilibrée et sa puissance en alcool n’est jamais agressive, ce qui la rend dangereusement facile à boire.",
-          "descriptionOld": "Blonde triple à l'amertume prononcée.",
+          "description": "Blonde equilibrée avec une légère touche de passion",
+          "icon": "beer"
+        },
+        {
+          "name": "Rochefort Triple",
+          "abv": "8.1%",
+          "price": "4€",
+          "description": "Blonde dorée aux aromes floraux.",
           "icon": "beer"
         },
         {
@@ -104,10 +101,11 @@
           "icon": "hop"
         },
         {
-          "name": "Natte Lore",
-          "abv": "9.1%",
+          "name": "Jambe de bois",
+          "abv": "8%",
           "price": "4€",
-          "description": "Blonde forte aux aromes et à l'amertume prononcée.",
+          "bio":false,
+          "description": "La Jambe-de-Bois est une Triple généreusement houblonnée. Blonde capiteuse, elle est très équilibrée et sa puissance en alcool n’est jamais agressive, ce qui la rend dangereusement facile à boire.",
           "icon": "beer"
         },
         {
@@ -185,9 +183,10 @@
           "icon": "cup-soda"
         },
         {
-          "name": "Eau infusée - Concombre Menthe",
+          "name": "Thé glacé"
+          "nameOld": "Eau infusée - Concombre Menthe",
           "price": "2€",
-          "description": "Concombre et menthe",
+          "description": "Menthe aromatisé au concombre",
           "icon": "cup-soda"
         },
         { "name": "Jus", "price": "2€", "icon": "apple" },
@@ -206,7 +205,7 @@
       "icon": "pizza",
       "items": [
         { "name": "Chips", "price": "1,5€", "icon": "bean" },
-        { "name": "Tarte sucrée", "price": "3,5€", "icon": "cake-slice" },
+        { "name": "Tarte sucrée", "price": "4€", "icon": "cake-slice" },
         {
           "name": "Assiette apéro",
           "price": "6€",
@@ -222,7 +221,7 @@
         { "name": "Croque-Monsieur 2 pièces", "price": "8€" },
         {
           "name": "Plat du week-end",
-          "price": "12€",
+          "price": "12,5€",
           "description": "Voir tableau - samedi soir et le dimanche",
           "icon": "hand-platter"
         }
