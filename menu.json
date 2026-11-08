@@ -178,19 +178,19 @@
       "items": [
         {
           "name": "Limonade maison",
-          "price": "1.5€",
+          "price": "2€",
           "description": "Citron et menthe",
           "icon": "cup-soda"
         },
         {
           "name": "Thé glacé",
           "nameOld": "Eau infusée - Concombre Menthe",
-          "price": "1.5€",
+          "price": "2€",
           "description": "Menthe aromatisé au concombre",
           "icon": "cup-soda"
         },
-        { "name": "Jus", "price": "1.5€", "icon": "apple" },
-        { "name": "Eau pétillante", "price": "1.5€", "icon": "glass-water" },
+        { "name": "Jus", "price": "2€", "icon": "apple" },
+        { "name": "Eau pétillante", "price": "2€", "icon": "glass-water" },
         { "name": "Coca-Cola", "price": "2€", "icon": "cup-soda" },
         {
           "name": "Eau plate",
@@ -213,11 +213,11 @@
           "icon": "pizza"
         },
         {
-          "name": "Croque-Monsieur",
+          "name": "Croque-Monsieur / Croque-Vege",
           "description": "et sa petite salade - vendredi soir et samedi midi",
           "icon": "sandwich"
         },
-        { "name": "Croque-Monsieur", "price": "7€" },
+        { "name": "Croque-Monsieur 2 Pièces", "price": "8€" },
         {
           "name": "Plat du week-end",
           "price": "12,5€",
