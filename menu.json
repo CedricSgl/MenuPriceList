@@ -7,8 +7,8 @@
       "items": [
         {
           "name": "La Grisette",
-          "abv": "4.5%",
-          "price": "2,5€",
+          "abv": "5.5%",
+          "price": "3€",
           "bio":true,
           "description": "La Grisette Blonde Bio est une bière pâle, légère et très rafraîchissante. Refermentée en bouteille, elle libère des parfums d’une richesse incomparable à ceux rencontrés à cette densité. La mousse est fine et blanche, et sa robe jaune paille. L’amertume est agréablement perceptible. Bio et sans Gluten",
           "icon": "barrel"
@@ -31,14 +31,14 @@
         {
           "name": "Placebo (Lupulus)",
           "abv": "0.0%",
-          "price": "4€",
+          "price": "3.5€",
           "description": "Bière à l'amertume subtile et aux notes gustatives complexes.",
           "icon": "beer"
         },
         {
           "name": "Trotinette",
           "abv": "0.4%",
-          "price": "4€",
+          "price": "3.5€",
           "bio":true,
           "description": "Houblonnée et sans sucre résiduel excessif. Tout le caractère d'une vraie artisanale, sans l'alcool.",
           "icon": "beer"
@@ -53,21 +53,21 @@
         {
           "name": "Fructus (Lupulus)",
           "abv": "4.2%",
-          "price": "4€",
+          "price": "3.5€",
           "description": "Bière rouge fruitée, légèrement sucrée.",
           "icon": "beer"
         },
         {
           "name": "Taras Boulba",
           "abv": "4.5%",
-          "price": "4€",
+          "price": "3.5€",
           "description": "Blonde à l'amertume forte et persistante.",
           "icon": "beer"
         },
         {
           "name": "La Tharée Légère",
           "abv": "4.5%",
-          "price": "4€",
+          "price": "3.5€",
           "bio":true,
           "description": "Blonde légère et rafraîchissante.",
           "icon": "beer"
@@ -145,12 +145,12 @@
       "items": [
         {
           "name": "Vin Blanc",
-          "description": "Viognier \"les îles blanches\", 2024",
+          "description": "Viognier \"les îles blanches\"",
           "icon": "grape"
         },
         {
           "name": "Vin Rouge",
-          "description": "Chapelle Saint-Martin 2023/2024",
+          "description": "Chapelle Saint-Martin",
           "icon": "grape"
         },
         { "name": "Verre", "price": "3€", "icon": "wine" },
@@ -178,19 +178,19 @@
       "items": [
         {
           "name": "Limonade maison",
-          "price": "2€",
+          "price": "1.5€",
           "description": "Citron et menthe",
           "icon": "cup-soda"
         },
         {
           "name": "Thé glacé",
           "nameOld": "Eau infusée - Concombre Menthe",
-          "price": "2€",
+          "price": "1.5€",
           "description": "Menthe aromatisé au concombre",
           "icon": "cup-soda"
         },
-        { "name": "Jus", "price": "2€", "icon": "apple" },
-        { "name": "Eau pétillante", "price": "2€", "icon": "glass-water" },
+        { "name": "Jus", "price": "1.5€", "icon": "apple" },
+        { "name": "Eau pétillante", "price": "1.5€", "icon": "glass-water" },
         { "name": "Coca-Cola", "price": "2€", "icon": "cup-soda" },
         {
           "name": "Eau plate",
@@ -217,8 +217,7 @@
           "description": "et sa petite salade - vendredi soir et samedi midi",
           "icon": "sandwich"
         },
-        { "name": "Croque-Monsieur 1 pièce", "price": "5€" },
-        { "name": "Croque-Monsieur 2 pièces", "price": "8€" },
+        { "name": "Croque-Monsieur", "price": "7€" },
         {
           "name": "Plat du week-end",
           "price": "12,5€",
